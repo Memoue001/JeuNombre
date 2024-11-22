@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\JeuNombre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBBBFBA-37C3-4906-A02A-CAF29769DDEE}|JeuNombre\\JeuNombre.csproj|c:\\users\\dell\\source\\repos\\jeunombre\\jeunombre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBBBFBA-37C3-4906-A02A-CAF29769DDEE}|JeuNombre\\JeuNombre.csproj|solutionrelative:jeunombre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:902789551:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\JeuNombre\\JeuNombre\\Program.cs",
+              "RelativeDocumentMoniker": "JeuNombre\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\JeuNombre\\JeuNombre\\Program.cs",
+              "RelativeToolTip": "JeuNombre\\Program.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAK0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:39:40.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

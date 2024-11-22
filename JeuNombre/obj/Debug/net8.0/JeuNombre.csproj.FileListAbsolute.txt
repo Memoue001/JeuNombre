@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\JeuNombre\JeuNombre\bin\Debug\net8.0\JeuNombre.exe
+C:\Users\DELL\source\repos\JeuNombre\JeuNombre\bin\Debug\net8.0\JeuNombre.deps.json
+C:\Users\DELL\source\repos\JeuNombre\JeuNombre\bin\Debug\net8.0\JeuNombre.runtimeconfig.json
+C:\Users\DELL\source\repos\JeuNombre\JeuNombre\bin\Debug\net8.0\JeuNombre.dll
+C:\Users\DELL\source\repos\JeuNombre\JeuNombre\bin\Debug\net8.0\JeuNombre.pdb
+C:\Users\DELL\source\repos\JeuNombre\JeuNombre\obj\Debug\net8.0\JeuNombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\JeuNombre\JeuNombre\obj\Debug\net8.0\JeuNombre.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\JeuNombre\JeuNombre\obj\Debug\net8.0\JeuNombre.AssemblyInfo.cs
+C:\Users\DELL\source\repos\JeuNombre\JeuNombre\obj\Debug\net8.0\JeuNombre.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\JeuNombre\JeuNombre\obj\Debug\net8.0\JeuNombre.dll
+C:\Users\DELL\source\repos\JeuNombre\JeuNombre\obj\Debug\net8.0\refint\JeuNombre.dll
+C:\Users\DELL\source\repos\JeuNombre\JeuNombre\obj\Debug\net8.0\JeuNombre.pdb
+C:\Users\DELL\source\repos\JeuNombre\JeuNombre\obj\Debug\net8.0\JeuNombre.genruntimeconfig.cache
+C:\Users\DELL\source\repos\JeuNombre\JeuNombre\obj\Debug\net8.0\ref\JeuNombre.dll
